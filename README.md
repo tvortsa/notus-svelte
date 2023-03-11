@@ -4,31 +4,31 @@
 
 ![Notus Svelte](https://github.com/creativetimofficial/public-assets/blob/master/notus-svelte/notus-svelte.jpg?raw=true)
 
-### A beautiful UI Kit and Admin for Tailwind CSS and Svelte.
+### Красивый комплект пользовательского интерфейса и администратора для Tailwind CSS и Svelte.
 
-Start your development with a Free Tailwind CSS and Svelte UI Kit and Admin. Let Notus Svelte amaze you with its cool features and build tools and get your project to a whole new level.
+Начните разработку с помощью бесплатного набора Tailwind CSS и Svelte UI Kit и администратора. Позвольте Notus Svelte удивить вас своими замечательными функциями и инструментами сборки и вывести ваш проект на совершенно новый уровень.
 
-Notus Svelte is Free and Open Source. It features multiple HTML and Svelte elements and it comes with dynamic components for Svelte.
+Notus Svelte является бесплатным и открытым исходным кодом. Он содержит несколько элементов HTML и Svelte, а также динамические компоненты для Svelte.
 
-It is based on [Tailwind Starter Kit](https://www.creative-tim.com/learning-lab/tailwind-starter-kit/presentation?ref=ns-github-readme) by Creative Tim, and it is build with both presentation pages, and pages for an admin dashboard.
+Он основан на [Tailwind Starter Kit](https://www.creative-tim.com/learning-lab/tailwind-starter-kit/presentation?ref=ns-github-readme) от Creative Tim, и он построен как со страницами презентации, так и со страницами для панели администратора.
 
-Speed up your web development with a beautiful product made by <a href="https://creative-tim.com/" target="_blank">Creative Tim </a>.
-If you like bright and fresh colors, you will love this Free Tailwind CSS Template! It features a huge number of components that can help you create amazing websites.
+Ускорьте свою веб-разработку с помощью красивого продукта, созданного <a href="https://creative-tim.com/" target="_blank">Creative Tim </a>.
+Если вам нравятся яркие и свежие цвета, вам понравится этот бесплатный CSS-шаблон Tailwind! Он имеет огромное количество компонентов, которые могут помочь вам создавать потрясающие веб-сайты.
 
-### Get Started
+### Начинаем
 
-- Install NodeJS **LTS** version from <a href="https://nodejs.org/en/?ref=creativetim">NodeJs Official Page</a>
-- Download the product on this page
-- Unzip the downloaded file to a folder in your computer
-- Open Terminal
-- Go to your file project (where you’ve unzipped the product)
-- (If you are on a linux based terminal) Simply run `npm run install:clean`
-- (If not) Run in terminal `npm install`
-- (If not) Run in terminal `npm run build:tailwind` (each time you add a new class, a class that does not exist in `src/assets/styles/tailwind.css`, you will need to run this command)
-- (If not) Run in terminal `npm run build:fontawesome`
-- (If not) Run in terminal `npm run dev`
-- Navigate to https://localhost:5000
-- Check more about [Tailwind CSS](https://tailwindcss.com/?ref=creativetim)
+- Установите NodeJS версии **LTS** с <a href="https://nodejs.org/en/?ref=creativetim">Официальной страницы NodeJs</a>
+- Скачать продукт на этой странице
+- Разархивируйте загруженный файл в папку на вашем компьютере
+- Откройте терминал
+- Перейти к файлу проекта (куда вы распаковали продукт)
+- (Если вы используете терминал на базе Linux) Просто запустите `npm run install:clean`
+- (Если нет) Запустите в терминале `npm install`
+- (Если нет) Запустите в терминале `npm run build:tailwind` (каждый раз, когда вы добавляете новый класс, класс, который не существует в `src/assets/styles/tailwind.css`, вам нужно будет запустить эту команду)
+- (Если нет) Запустите в терминале `npm run build:fontawesome`
+- (Если нет) Запустите в терминале `npm run dev`
+- Перейдите на https://localhost:5000
+- Узнайте больше о [Tailwind CSS](https://tailwindcss.com/?ref=creativetim)
 
 ### Pages
 
